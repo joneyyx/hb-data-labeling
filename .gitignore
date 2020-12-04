@@ -1,0 +1,8 @@
+## ignore below folder or file
+/target/
+.idea
+.project
+.settings
+/logs/
+*.iml
+/.classpath
